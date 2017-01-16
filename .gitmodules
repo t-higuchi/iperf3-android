@@ -1,0 +1,3 @@
+[submodule "app/iperf3"]
+	path = app/iperf3
+	url = https://github.com/t-higuchi/iperf.git
