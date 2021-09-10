@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/iperf3.iml" filepath="$PROJECT_DIR$/iperf3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.iperf3-android.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.iperf3-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iperf3-android.iml" filepath="$PROJECT_DIR$/.idea/iperf3-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/iperf3-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/iperf3-android.app.iml" />
     </modules>
   </component>
 </project>
