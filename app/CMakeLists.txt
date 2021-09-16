@@ -26,6 +26,7 @@ add_library( # build libiperf.so
              iperf
              SHARED
 
+             ${CMAKE_SOURCE_DIR}/src/main/cpp/jni_iperf_api.cpp
              ${IPERF_SRC}/src/cjson.c
              ${IPERF_SRC}/src/iperf_api.c
              ${IPERF_SRC}/src/iperf_error.c
